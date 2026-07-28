@@ -18,7 +18,6 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -50,17 +49,7 @@ VS Code • Git • GitHub • Wazuh • XAMPP • Jupyter Notebook
 - Responsive developer portfolio
 - Built using HTML, CSS & JavaScript
 
----
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=diyadinesh33&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=diyadinesh33&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diyadinesh33&layout=compact&theme=github_dark)
-
----
 
 ## 📫 Connect with Me
 
